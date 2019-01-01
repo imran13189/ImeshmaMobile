@@ -1,0 +1,7 @@
+{
+  "name": "imeshma",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
